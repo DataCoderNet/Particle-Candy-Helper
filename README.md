@@ -21,3 +21,5 @@ It assumes that you alredy have CoronaSDK at least build 2014.2189, Kwik Photosh
 
 ##Questions
 Should you have any question, you can reachme via Twitter @Appresario
+
+Special thanks to to Gareth Dinnen for asking me to make this library and make the video tutorial
