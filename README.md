@@ -19,6 +19,8 @@ It assumes that you alredy have CoronaSDK at least build 2014.2189, Kwik Photosh
 
 3. There are some lines that are commented, feel free to copy and paste them depending if you want to add them as "actions" or from inside a button
 
+4. Video tutorial available at https://www.youtube.com/watch?v=qOmkq2chN-4
+
 ##Questions
 Should you have any question, you can reachme via Twitter @Appresario
 
